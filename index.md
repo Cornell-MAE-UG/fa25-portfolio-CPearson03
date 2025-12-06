@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Charlie Pearson
 ---
 
 ## About Me
