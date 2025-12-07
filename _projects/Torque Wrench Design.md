@@ -4,6 +4,7 @@ title: Torque Wrench Design Project
 description: Anysy Design Project
 technologies: [Autodesk, Fusion, MATLAB]
 image: assets/images/Torque_Wrench/Torque Cover Image.png
+show_header_image: true
 ---
 
 
@@ -11,6 +12,18 @@ image: assets/images/Torque_Wrench/Torque Cover Image.png
 
 
 <style>
+  .project-hero {
+  text-align: center;
+  margin: 20px 0 30px 0; /* spacing around image */
+}
+
+.project-hero img {
+  max-width: 350px;   /* adjust size as needed */
+  width: 100%;
+  height: auto;
+  border-radius: 8px; /* optional for nicer look */
+}
+
   .img-row {
     display: flex;
     gap: 15px;
