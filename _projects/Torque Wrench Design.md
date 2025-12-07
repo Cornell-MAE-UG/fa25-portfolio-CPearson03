@@ -31,6 +31,7 @@ image: assets/images/Torque_Wrench/Torque Cover Image.png
     margin-top: 5px;
   }
 </style>
+## Introduction
 
 In this project I designed a torque wrench that maximized strain-gauge output while also meeting safety requirements for yielding, fracture, and fatigue. I first performed analytical hand calculations using beam theory, selecting geometry and material to satisfy the design requirements. I then modeled the design in Fusion 360 and imported it into ANSYS to simulate stress and strain under the maximum applied torque.
 
