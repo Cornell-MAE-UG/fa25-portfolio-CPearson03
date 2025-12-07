@@ -189,7 +189,7 @@ The following analysis shows how the state space model is formed from the govern
 We analyzed the closed-loop dynamics using the block diagram of the system:
 
 <figure>
-  <img src="/fa25-portfolio-CPearson03/assets/images/Active_Suspension/Block diagram.png" class="img-large" alt="Block diagram">
+  <img src="/fa25-portfolio-CPearson03/assets/images/Active_Suspension/Block_diagram.png" class="img-large" alt="Block_diagram">
   <figcaption>Closed-loop block diagram of the system.</figcaption>
 </figure>
 
