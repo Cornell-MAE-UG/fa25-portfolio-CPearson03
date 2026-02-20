@@ -1,19 +1,18 @@
 ---
 layout: project
 title: "Spotted Lantern Fly"
-fontsize: 11pt
-geometry: margin=1in
-papersize: letter
-pagestyle: empty
-header-includes:
-  - \pagenumbering{gobble}
 ---
 
 
 # Spotted Lantern Fly
 
-**Team:** Spotted... then Stopped
-**Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
+**Team:** 
+
+Spotted... then Stopped
+
+**Client(s):** 
+
+Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
 ## Problem statement (most important)
 
