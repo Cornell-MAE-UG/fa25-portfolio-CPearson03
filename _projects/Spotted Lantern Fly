@@ -1,3 +1,10 @@
+layout: project
+title: Spotted Lantern Fly
+description: Client Pitch
+technologies: [NA]
+image: /assets/images/function-graph.png
+
+
 <!--
 Compile to PDF (example):
   pandoc O3_ClientOutline_example_submission.md -o O3_ClientOutline.pdf
