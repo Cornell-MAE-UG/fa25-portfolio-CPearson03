@@ -4,17 +4,11 @@ title: "Spotted Lantern Fly"
 ---
 
 
-# Spotted Lantern Fly
+**Team:** Spotted... then Stopped
 
-**Team:** 
-
-Spotted... then Stopped
-
-**Client(s):** 
-
-Cornell CALS Extension / E\&J Gallo Winery / National Grape  
-
-## Problem statement (most important)
+**Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
+  
+## Problem statement
 
 New York vineyard owners are trying to maximize yield in their vineyards, but Spotted Lanternflies are infesting vines and contaminating harvests, leading to decreased yield.
 
@@ -27,15 +21,25 @@ One of the most thought of solutions would be to shake the plant enough for the 
  
 
 ## Impact
-Give context for why solving this sub-problem addresses the client's user needs.
+Reducing contamination during the harvesting process leads to less wasted product and maximizes yield.
 
 ## Proposed direction(s)
+Our main idea is to have a machine attached to the front of the harvester that would get rid of the flies right before the grapes are collected. 
 
-### Concept A (primary): <1-line name>
+### Concept A (primary): <Spinning Brushes>
 
-**What it is:** <1–2 sentences.>  
-**How it would be used:** <2–4 bullet “user flow” steps.>  
-**Why it’s better than the status quo:** <2–3 bullets.>  
+**What it is:** An attachment to the front of the vehicle that has rotating brushes aimed at only the vine. The brushes would be located on a rotating rod (almost like a car wash brush) so as to scrape the flies off the vine without disturbing the grapes too much.
+
+**How it would be used:** 
+- Attach rotating rods to the harvester at correct height
+- Turn them on to spin
+- Drive the harvester through to collect grapes
+ 
+**Why it’s better than the status quo:** 
+- Flies would be knocked off vines before reaching harvester
+- Brushes below grapes to protect harvest
+- Don’t need to worry about separating grapes vs flies
+  
 **End-of-semester proof-of-concept:** <what you can realistically build/test in MAE 2250.>  
 
 ### Concepts B, C, etc.
