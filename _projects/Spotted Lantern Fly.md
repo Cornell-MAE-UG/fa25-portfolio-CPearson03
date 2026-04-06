@@ -8,11 +8,25 @@ image: "/assets/images/SLF_Project/ODP_Image.png"
 **Team: Spotted... then Stopped**
 
 
-[View as PDF]({{ "/assets/images/SLF_Project/Client_Pitch.pdf" | relative_url }})
+
 
 
 ---
 
+
+## Milestones
+
+- [Client pitch](#client-pitch)
+- [Functional prototype](#functional-prototype)
+
+
+---
+
+
+<a name="client-pitch"></a>
+## Client pitch
+
+[View as PDF]({{ "/assets/images/SLF_Project/Client_Pitch.pdf" | relative_url }})
 
 **Problem Statement:**
 
@@ -135,3 +149,17 @@ https://www.psu.edu/news/research/story/grapevines-may-only-need-help-survive-he
 
 ---
 
+<a name="functional-prototype"></a>
+## Functional prototype
+
+**Purpose:** Vet the spinning brush mechanism and identify what to iterate on before the final prototype.
+
+**What was tested:**
+
+- *Motion and cycling* — Brushes were rotated through 20+ full cycles to check for jamming, wear, or drift in alignment.
+- *Load-bearing* — Frame was tested under lateral loads simulating harvester motion, checking for flex or joint slippage.
+- *Assembly* — The mount-to-harvester connection was assembled and disassembled 5 times to confirm it stays secure and doesn't require excessive force.
+
+**Outcome:**
+
+Brushes cleared a simulated vine surface consistently across all cycles with no jamming. The frame showed [X mm] of flex under a [Y N] lateral load — within tolerance, but the mount will be reinforced for the final prototype. Assembly averaged [Z minutes] per cycle.
