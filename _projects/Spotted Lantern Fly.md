@@ -2,7 +2,7 @@
 layout: project
 title: Open Design Project
 description: Outline of our proposed solution for the New York vineyard owners' Spotted Lanternfly problem
-#technologies: [CAD]
+technologies: [CAD]
 image: "/assets/images/SLF_Project/ODP_Image.png"
 ---
 **Team: Spotted... then Stopped**
@@ -139,10 +139,10 @@ Two cylindrical brushes attached to an adjustable mounting frame, spinning in ta
 ###### References
 
 
-https://wineamerica.org/wp-content/uploads/2025/05/2025-WineAmerica-Methodology-4-28-25-Final.pdf
+- [WineAmerica 2025 Methodology](https://wineamerica.org/wp-content/uploads/2025/05/2025-WineAmerica-Methodology-4-28-25-Final.pdf)
 
+- [PSU: Grapevines may only need help to survive heavy spotted lanternfly infestations](https://www.psu.edu/news/research/story/grapevines-may-only-need-help-survive-heavy-spotted-lanternfly-infestations)
 
-https://www.psu.edu/news/research/story/grapevines-may-only-need-help-survive-heavy-spotted-lanternfly-infestations
 
 
 ---
@@ -156,6 +156,8 @@ https://www.psu.edu/news/research/story/grapevines-may-only-need-help-survive-he
 The primary purpose of our prototype was to test the effectiveness and ease of assembly for the brush and shaft feature of our design. This feature is critical to the success of our design which is why we made it a priority to make a prototype before we progressed with big decisions such as purchasing motors and creating a bracket, which would be dependent on our findings.
 
 This feature requires the most attention to detail in terms of fabrication, as the 3D printed shaft has to be toleranced in such a way that the brushes fit into the slots without excessive force, but are also secure enough that they do not come loose under working loads. From our testing, we also wanted to confirm the feature would be a suitable method of incorporating the strip brushes, and  that it would be effective in removing SLF when in motion. Finally, we wanted to create the prototype so we could get a gauge of what size motor would be required to run the brush for our chosen operating rate.
+
+
 
 
 #### Tests and Outcomes:
