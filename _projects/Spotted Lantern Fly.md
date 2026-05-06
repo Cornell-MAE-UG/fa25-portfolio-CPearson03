@@ -8,6 +8,14 @@ image: "/assets/images/SLF_Project/ODP_Image.png"
 **Team: Spotted... then Stopped**
 
 
+---
+
+#### Milestones
+
+- Click [here](#client-pitch) for client pitch assignment (or here to [view as PDF]({{ "/assets/images/SLF_Project/Client_Pitch.pdf" | relative_url }}))
+- Click [here](#functional-prototype) for functional prototype assignment (or here to [view as PDF]({{ "/assets/images/SLF_Project/Functional_Prototype.pdf" | relative_url }}))
+- Click [here](#client-report) for client report assignment (or here to [view as PDF]({{ "/assets/images/SLF_Project/Client_report.pdf" | relative_url }}))
+
 
 ---
 
@@ -17,13 +25,6 @@ In this project, we developed a mechanical solution to help vineyard operators i
 
 The key challenge is removing SLF immediately prior to harvest without disturbing the vines or dislodging ripe grapes, which are highly susceptible to damage. Our approach focuses on a front-mounted, brush-based attachment for mechanical harvesters that selectively clears insects from the vine moments before collection. The system is designed to integrate with existing harvesting equipment while maintaining yield, reducing contamination risk, and minimizing additional labor or processing requirements. 
 
----
-
-#### Milestones
-
-- Click [here](#client-pitch) for client pitch assignment (or here to [view as PDF]({{ "/assets/images/SLF_Project/Client_Pitch.pdf" | relative_url }}))
-- Click [here](#functional-prototype) for functional prototype assignment (or here to [view as PDF]({{ "/assets/images/SLF_Project/Functional_Prototype.pdf" | relative_url }}))
-- Click [here](#client-report) for client report assignment (or here to [view as PDF]({{ "/assets/images/SLF_Project/Client_report.pdf" | relative_url }}))
 
 ---
 
